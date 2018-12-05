@@ -1,2 +1,2 @@
 # For-C
-A repository for C
+A repository for C,C++
